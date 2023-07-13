@@ -1,0 +1,17 @@
+Create a policy.
+
+Create a new Scan based on policy. 
+Use default policy as Ping default ports for servers.
+Use default policy as Ping default ports web app for web applications.
+
+
+My Scans:
+
+New Scan -> User defined and use templates as:
+
+More --> Configure:
+Settings -> ASSESSMENT 
+-> Web applications -> Check configurations as in snapshot.
+
+
+
